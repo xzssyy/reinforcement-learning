@@ -1,0 +1,114 @@
+# ======================
+# OS generated files
+# ======================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+
+# ======================
+# Python
+# ======================
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+
+# ======================
+# Jupyter Notebook
+# ======================
+
+.ipynb_checkpoints/
+
+
+# ======================
+# IDE
+# ======================
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+
+# ======================
+# Logs
+# ======================
+
+*.log
+logs/
+
+
+# ======================
+# Machine Learning
+# ======================
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# TensorBoard
+runs/
+tensorboard_logs/
+
+# Weights & Biases
+wandb/
+
+
+# ======================
+# Data
+# ======================
+
+# Large datasets
+data/
+datasets/
+
+# Generated files
+outputs/
+results/
+
+
+# ======================
+# Environment
+# ======================
+
+.env
+.env.*
+
+
+# ======================
+# Temporary files
+# ======================
+
+*.tmp
+*.temp
+*.swp
+*.bak
