@@ -1,4 +1,4 @@
-from env import TicTacToe
+from rl_introduction.tictactoe.env import TicTacToe
 import random
 
 

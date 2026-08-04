@@ -1,6 +1,5 @@
-from bandit_action_evaluation.action_selection import epsilon_greedy
+from rl_introduction.bandit_action_evaluation.action_selection import epsilon_greedy
 import numpy as np
-from ..utilities import plot_lines
 from tqdm import tqdm
 
 

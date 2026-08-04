@@ -1,7 +1,7 @@
-from evaluate import evaluate
-from states_generator import StateGenerator
-from env import TicTacToe
-from agent import RuleOpponent, RLAgent, RandomAgent
+from rl_introduction.tictactoe.evaluate import evaluate
+from rl_introduction.tictactoe.states_generator import StateGenerator
+from rl_introduction.tictactoe.env import TicTacToe
+from rl_introduction.tictactoe.agent import RuleOpponent, RLAgent, RandomAgent
 from tqdm import tqdm
 
 
